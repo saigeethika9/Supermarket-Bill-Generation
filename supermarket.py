@@ -16,7 +16,7 @@ Colgate   Rs 85/each
 price = 0
 pricelist=[]
 totalprice=0
-Finalfinalprice=0
+finalprice=0
 ilist=[]
 qlist=[]
 plist=[]
